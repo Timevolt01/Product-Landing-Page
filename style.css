@@ -46,9 +46,9 @@ li {
   list-style: none;
 }
 .video {
-  width: 100%;
-  margin: auto;
-  text-align: center;
+    width: 100%;
+    margin: 30px auto;
+    text-align: center;
 }
 #nav-ul {
   margin-left: 360px;
@@ -112,4 +112,7 @@ ol {
   background-color: orange;
   width: 90px;
   height: 30px;
+}
+#Features{
+    margin-top: 160vh;
 }
